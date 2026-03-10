@@ -4,7 +4,7 @@ using namespace std;
 
 void start() {
 	cout << "\n";
-	cout << "\nZB-Банк 🏦" << "\n";
+	cout << "\nBank Of Chechnya 🏦" << "\n";
 	cout << "---------------" << "\n";
 	cout << "1. Проверить баланс" << "\n";
 	cout << "2. Снять деньги" << "\n";
