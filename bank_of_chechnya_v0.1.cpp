@@ -56,9 +56,7 @@ int main()
 				start();
 			}
 
-		}
-		else if (button == 3) 
-		{
+		} else if (button == 3) {
 
 			int give_money;
 			cout << "Сколько вы хотите положить: ";
@@ -74,7 +72,6 @@ int main()
 				cout << "🚫 Вы ввели некорректное значение.";
 				start();
 			}
-			
 		}
 	} while (!(button == 4));
 
